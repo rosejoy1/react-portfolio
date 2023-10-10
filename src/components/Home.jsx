@@ -14,7 +14,7 @@ function Home() {
       <div className="section__text">
         <p className="section__text__p1">Hello, I'm</p>
         <h1  className="title">Rose Joy</h1>
-        <p className="section__text__p2">Full Stack Developer</p>
+        <p className="section__text__p2" style={{color:'brown'}}>Full Stack Developer</p>
         <div className="btn-container">
           <a href={pdfFile}>
               <button

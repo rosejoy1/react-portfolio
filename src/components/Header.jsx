@@ -29,6 +29,8 @@ function Header({theme,setTheme}) {
                 <li class="list"><a class="link" href="">Home</a></li>
                 <li class="list"><a class="link" href="">About</a></li>
                 <li class="list"><a class="link" href="">Skills</a></li>
+                <li class="list"><a class="link" href="">Project</a></li>
+
                 <li class="list"><a class="link" href="">Contact</a></li>
             </ul>
             <label for="check" class="checkbox">

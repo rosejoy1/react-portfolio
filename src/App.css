@@ -1,7 +1,7 @@
 :root {
-  --background-color:#f5f5ed; /* default background color */
+  --background-color:#ffffff; /* default background color */
   --text-color: #000000; /* default text color */
-  --button-bg-light: #353535; /* default light button background color */
+  --button-bg-light: #001933; /* default light button background color */
   --button-text-light: #fff; /* default light button text color */
   --button-border-light: #353535; /* default light button border color */
   --button-bg-dark: #fff; /* default dark button background color */
@@ -20,7 +20,8 @@
   --button-text-dark: #000; /* dark button text color in dark mode */
   --button-border-dark: #fff; /* dark button border color in dark mode */
 }
-*{
+.app{
   background: var(--background-color);
   color: var(--text-color);
+  
 }

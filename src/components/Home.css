@@ -1,9 +1,9 @@
 :root {
-    --background-color:#f5f5ed; /* default background color */
+    --background-color:#ffffff; /* default background color */
     --text-color: #000000; /* default text color */
-    --button-bg-light: #353535; /* default light button background color */
+    --button-bg-light: #0b243e; /* default light button background color */
     --button-text-light: #fff; /* default light button text color */
-    --button-border-light: #353535; /* default light button border color */
+    --button-border-light:  #0b243e; /* default light button border color */
     --button-bg-dark: #fff; /* default dark button background color */
     --button-text-dark: #000; /* default dark button text color */
     --button-border-dark: #fff; /* default dark button border color */
@@ -31,7 +31,7 @@
     height: 100vh;
   }
   .pro-section__pic-container{
-   margin-top: 140px;
+   margin-top: 200px;
   }
   
   .section__text {
@@ -53,10 +53,7 @@
     margin-top: 0.5rem;
   }
   
-  .title {
-    font-size: 3rem;
-    text-align: center;
-  }
+ 
   
   #socials-container {
     display: flex;
